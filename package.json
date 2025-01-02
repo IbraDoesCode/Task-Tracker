@@ -1,0 +1,12 @@
+{
+  "name": "taskcli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "taskcli": "file:"
+  }
+}
