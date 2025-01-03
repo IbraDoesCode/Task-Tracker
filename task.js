@@ -24,7 +24,7 @@ class Task {
                `Description: ${this.description}\n` +
                `Status: ${this.status}\n` +
                `Created at: ${this.createdAt.toLocaleString()}\n` +
-               `Updated at: ${this.updatedAt ? this.updateAt.toLocaleString() : 'N/A'}`;
+               `Updated at: ${this.updatedAt ? this.updatedAt.toLocaleString() : 'N/A'}\n`;
     }
 
 }
