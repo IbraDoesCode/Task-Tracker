@@ -2,6 +2,9 @@
   "name": "taskcli",
   "version": "1.0.0",
   "main": "index.js",
+  "bin": {
+    "task-cli": "index.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
