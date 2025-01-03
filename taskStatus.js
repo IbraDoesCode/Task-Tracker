@@ -1,6 +1,6 @@
 const taskStatus = Object.freeze({
     PENDING: "pending",
-    IN_PROGRESS: "in_progress",
+    IN_PROGRESS: "in-progress",
     DONE: "done"
 });
 
