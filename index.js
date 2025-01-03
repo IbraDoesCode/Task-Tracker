@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { addTask, updateTaskDescription, updateTaskStatus, deleteTask, fetchTasks, fetchTasksByStatus } = require('./taskManager');
 const { taskStatus } = require("./taskStatus");
 
